@@ -108,7 +108,7 @@ Junior QA с техническим образованием (Информаци
 
 **Вложения:** 
 
-![][image1]
+![Снимок экрана 2026-11-18 174536.png]
 
 **Отчет о тестировании:** Подготовлен финальный отчет, обобщающий процесс и результаты тестирования.  
 [https\://docs.google.com/document/d/1Xf9DF\_z1rhBhN3ZWE8yuWEjv4NDS7hNy/edit?usp=sharing\&ouid=101828991165059197793\&rtpof=true\&sd=true](https://docs.google.com/document/d/1Xf9DF_z1rhBhN3ZWE8yuWEjv4NDS7hNy/edit?usp=sharing&ouid=101828991165059197793&rtpof=true&sd=true)
